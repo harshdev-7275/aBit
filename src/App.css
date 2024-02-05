@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Inter:wght@200;300;500;600&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400&family=PT+Serif&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;1,200;1,400;1,600&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,400;1,500&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.hero-text {
+  font-family: 'Gloria Hallelujah', cursive;
+  color: #fff;
+  font-weight: 400;
+  font-size: 21px;
+}
+.main-heading {
+  font-family: 'PT Serif', serif;
+}
